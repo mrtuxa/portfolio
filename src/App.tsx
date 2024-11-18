@@ -4,7 +4,7 @@ import Header from './components/Header';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Footer from './components/Footer';
-import ToggleTheme from './components/ToggleTheme';
+// import ToggleTheme from './components/ToggleTheme';
 import Languages from "./components/Languages";
 
 const App: React.FC = () => {
