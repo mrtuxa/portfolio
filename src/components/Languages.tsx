@@ -3,7 +3,7 @@ import React from 'react';
 const Languages: React.FC = () => {
     const projects = [
         {name: "German", description: "C2", grade: "native speaker"},
-        {name: "Englisch", description: "B1", grade: "first foreign language"},
+        {name: "English", description: "B1", grade: "first foreign language"},
         {name: "French", description: "A1", grade: "foreign language"},
         {name: "Dutch", description: "A1", grade: "self-study"},
     ];
