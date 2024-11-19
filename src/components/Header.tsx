@@ -5,7 +5,7 @@ const Header: React.FC = () => {
         <header className="portfolio-header">
             <h1>🌈 Lucy's Portfolio</h1>
             <div className="identity-badges">
-                <span>sweet 18 yrs ols</span>
+                <span>sweet 18 yrs old</span>
                 <span> | 🏳️‍⚧️ Transgirl</span>
                 <span> | 🇩🇪 East Germany</span>
                 <span> | 💻 Tech Enthusiast</span>
